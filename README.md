@@ -13,7 +13,7 @@ Setup:
 - Clone this repo https://github.com/hbfawaz112/Crypto-Platform.git
 - run ```npm i && npm start``` to start the development server
 
-Some Screenshots
+# Some Screenshots
 ## Web Version:
 <p float="left">
 <img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/screencapture-localhost-3000-2021-09-28-11_44_30.png" />
