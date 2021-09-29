@@ -15,8 +15,6 @@ Setup:
 
 # Some Screenshots
 ## Web Version:
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/Crypto_Platform_Web.PNG" height="400"/>
-
+![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/Crypto_Platform_Web.PNG)
 ## Mobile Version
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/Crypto_Platform_Mobile.PNG" height="400"/>
-
+![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/Crypto_Platform_Mobile.PNG)
