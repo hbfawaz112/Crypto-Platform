@@ -15,20 +15,8 @@ Setup:
 
 # Some Screenshots
 ## Web Version:
-<p float="left">
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/screencapture-localhost-3000-2021-09-28-11_44_30.png" />
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/screencapture-localhost-3000-crypto-1-2021-09-28-11_45_29.png"/>
-  </p>
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/screencapture-localhost-3000-crypto-155-2021-09-28-11_45_29.png"/>
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/screencapture-localhost-3000-news-2021-09-28-11_44_45.png"/>
-<hr>
+<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/Crypto_Platform_Web.PNG" height="400"/>
 
 ## Mobile Version
-<p float="left">
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s1.jpg" height="600">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s2.jpg" height="600">
-  
-</p>
-
+<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/Crypto_Platform_Mobile.PNG" height="400"/>
 
