@@ -15,10 +15,6 @@ Setup:
 ## Web Version:
 ![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web_ReactJS/ss/Crypto_Platform_Web.PNG)
 ## Mobile Version
-<p float="left">
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s1.jpg" width="300" height="470" />
-<img src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s2.jpg" width="300" height="470" />
-  
-</p>
+![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s3.PNG)
 
 <b>This project corresponding to this video tutorial : https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery
