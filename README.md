@@ -1,9 +1,7 @@
 # Crypto-Platform
 A cryptocurrency platform based on a web version build with reactJS and a mobile version build with react native powered by RapidAPI
-
-
-</b>
 ## Tech Used 
+
 1- ReactJS and React Native<br>
 2- RapidAPI<br>
 3- Ant Design UI <br>
