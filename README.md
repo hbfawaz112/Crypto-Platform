@@ -12,7 +12,18 @@ Setup:
 
 # Some Screenshots
 ## Web Version:
-
+  ![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web%20Version/s1.png?token=AKRXMIRVPHT57F34PGYIAHLBS7I56)
+  <br>
+  ![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Web%20Version/s2.png?token=AKRXMIXEQKPWWXBPLNMXEXTBS7I62)
 ## Mobile Version
-![](https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s3.PNG)
-
+<table>
+  <tr>
+    <td>
+      <img width="50%" height="50%" src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s1.jpg?token=AKRXMIRV2UPU5ZG4AST2SI3BS7IS4"/>
+    </td>
+    <td>
+      <img width="50%" height="50%"  src="https://raw.githubusercontent.com/hbfawaz112/Crypto-Platform/main/Mobile_ReactNative/ss/s2.jpg?token=AKRXMIXVBAP3KMNG4CTKYB3BS7IWG"/>
+    </td>
+  </tr>
+</table>
+  
